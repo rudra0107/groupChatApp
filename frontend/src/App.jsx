@@ -1,6 +1,4 @@
 import { useState } from "react";
-import { disableReactDevTools } from "@fvilers/disable-react-devtools";
-if (process.env.NODE_ENV === "production") disableReactDevTools;
 
 import "./App.css";
 
